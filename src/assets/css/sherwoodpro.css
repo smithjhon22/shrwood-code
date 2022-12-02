@@ -1,0 +1,105 @@
+.winning-sec .img-effect img {
+	box-shadow: 12px 12px 0px 0px #171717;
+}
+.winning-sec .img-effect h4 {
+	margin-top: 10px;
+	text-align: center;
+}
+.winning-sec .blue-divider {
+	background: #0066cc;
+	height: 3px;
+	width: 47px;
+	margin-bottom: 30px;
+	border-radius: 10px;
+}
+section.winning-sec .content-wrapper {
+    margin: auto;
+    width: 100%;
+}
+.winning-sec .blue-divider.secondblue {
+	display: flex;
+	/* transform: translate(137px, 0px); */
+}
+.professional-sec {
+	padding: 50px 0px;
+}
+.member-card-wrapper {
+	margin: 30px 0px;
+}
+.professional-sec button {
+	border: 0px;
+	background: no-repeat;
+	display: flex;
+	width: 100%;
+	justify-content: end;
+	position: relative;
+	top: -36px;
+}
+
+.professional-sec h5 {
+	color: #0066cc;
+	font-family: "Poppins";
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.professional-sec h4 {
+	color: #000;
+	font-size: 35px;
+	font-weight: 700;
+	font-family: "sf_pro_m";
+}
+@media (max-width: 1366px) {
+	section.winning-sec .content-wrapper {
+		width: 100%;
+	}
+}
+@media (max-width: 1100px) {
+	section.winning-sec .content-wrapper {
+		width: 100%;
+	}
+}
+@media (max-width: 991px) {
+	.winning-sec .img-effect h4 {
+		font-size: 25px;
+	}
+}
+
+
+@media (max-width: 1440px) {
+}
+@media (max-width: 1366px) {
+}
+@media (max-width: 1280px) {
+}
+@media (max-width: 1100px) {
+}
+@media (max-width: 1024px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 820px) {
+}
+@media (max-width: 768px) {
+}
+@media (max-width: 575px) {
+	section.winning-sec .content-wrapper {
+		width: 100%;
+	}
+	ul.white {
+		padding: 0;
+	}
+	.winning-sec .img-effect img {
+		box-shadow: 6px 9px 0px 0px #171717;
+	}
+}
+@media (max-width: 414px) {
+}
+@media (max-width: 390px) {
+}
+@media (max-width: 375px) {
+}
+@media (max-width: 360px) {
+}
+@media (max-width: 390px) {
+}

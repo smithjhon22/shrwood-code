@@ -1,0 +1,94 @@
+.Advisory-card-wrapper .Advisory-content-wrapper {
+  margin: 12px 0px;
+}
+
+.Advisory-sec .Advisory-card-wrapper {
+  margin: 30px 0px;
+  position: relative;
+}
+.Advisory-card-wrapper .Advisory-content-wrapper h4 {
+  font-family: "SF Pro Display";
+  font-size: 26px;
+  font-weight: 700;
+  color: #00151f;
+}
+
+.Advisory-card-wrapper .Advisory-content-wrapper p {
+  color: #7f7f7f;
+  font-family: "sf-text-pro";
+  font-size: 13px;
+}
+
+.Advisory-card-wrapper .Advisory-content-wrapper a {
+  color: #0066cc;
+  text-decoration: none;
+  font-family: "sf-text-pro";
+  font-size: 16px;
+}
+.Advisory-sec .Advisory-card-wrapper .blue-divider {
+    background: #0066cc;
+    height: 3px;
+    width: 47px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+section.Advisory-sec {
+  padding-bottom: 70px;
+}
+
+@media (max-width: 1366px) {
+  .Advisory-card-wrapper .Advisory-content-wrapper h4 {
+    font-size: 25px;
+}
+.Advisory-card-wrapper .Advisory-content-wrapper p {
+  font-size: 12px;
+}
+.pageheader h4 {
+  font-size: 28px;
+  
+}
+}
+
+.coming-soon h1 {
+  font-size: 70px;
+  font-family: 'SF Pro Display';
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+.coming-soon {
+  text-align: center;
+}
+
+@media (max-width: 1440px) {
+}
+@media (max-width: 1366px) {
+}
+@media (max-width: 1280px) {
+}
+@media (max-width: 1100px) {
+}
+@media (max-width: 1024px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 820px) {
+}
+@media (max-width: 768px) {
+}
+@media (max-width: 575px) {
+  .coming-soon h1 {
+    font-size: 30px;
+    
+}
+}
+@media (max-width: 414px) {
+}
+@media (max-width: 390px) {
+}
+@media (max-width: 375px) {
+}
+@media (max-width: 360px) {
+}
+@media (max-width: 390px) {
+}

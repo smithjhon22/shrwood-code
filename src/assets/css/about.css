@@ -1,0 +1,496 @@
+/* winnign-sec css starts here */
+.winning-sec {
+  padding: 50px 0px;
+}
+.winning-sec {
+  padding: 50px 0px;
+}
+.winning-sec h3 {
+  font-size: 35px;
+  line-height: 1.3;
+  font-weight: 700;
+  color: #000000;
+}
+.winning-sec h3 span {
+  font-weight: 400;
+}
+.winning-sec p {
+  color: #7f7f7f;
+  font-family: "sf-text-pro";
+  font-size: 14px;
+  text-align: justify;
+}
+.winning-sec ul li {
+  font-size: 12px;
+  color: #7f7f7f;
+  font-family: "sf-text-pro";
+}
+/* winnign-sec css ends here */
+/* Experience-sec  css starts here */
+.Experience-sec {
+  padding: 70px 0px;
+}
+section.Experience-sec .content-wrapper h5 {
+  color: #fff;
+}
+.Experience-sec .content-wrapper {
+  background: #000000;
+  padding: 99px 55px 100px 55px;
+}
+.Experience-sec p {
+  color: #ffffff;
+  font-family: "sf-text-pro";
+  font-size: 14px;
+}
+.Experience-sec h3 {
+  color: #fff;
+  font-family: "SF Pro Display";
+  font-size: 32px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  margin: 0;
+}
+.Experience-sec h3 span {
+  font-weight: 400;
+}
+.Experience-sec img.experience-img {
+  height: 469px;
+}
+/* Experience-sec  css ends here */
+/* Business-sec  css starts here */
+.Business-sec {
+  padding: 50px 0px;
+}
+.Business-sec h3 {
+  font-size: 50px;
+  line-height: 1.3;
+  font-weight: 700;
+  color: #000000;
+}
+.Business-sec h3 span {
+  font-weight: 400;
+}
+.Business-sec p {
+  color: #7f7f7f;
+  font-family: "sf-text-pro";
+  font-size: 16px;
+}
+/* Business-sec css ends here */
+/* team-sec  css starts here */
+.team-sec {
+  padding: 50px 0px;
+}
+.team-sec .content-wrapper {
+  text-align: center;
+}
+.team-sec h3 {
+  font-size: 50px;
+  line-height: 1.3;
+  font-weight: 700;
+  color: #000000;
+}
+.team-sec h3 span {
+  font-weight: 400;
+}
+.team-sec p {
+  color: #7f7f7f;
+  font-family: "sf-text-pro";
+  font-size: 16px;
+}
+.team-sec .team-name-wrapper {
+  background: #0066cce0;
+  padding: 10px 0px;
+  text-align: center;
+  color: #fff;
+  margin-top: -49px;
+  position: relative;
+}
+.team-card-wrapper {
+  margin: 40px 0px;
+}
+.team-sec .team-name-wrapper h5 {
+  margin: 0px;
+  font-family: "SF Pro Display";
+  font-size: 25px;
+}
+/* team-sec  css ends here */
+
+/* Begin Monetization blog section  */
+.whole-blog h3{
+  font-size: 23px;
+  line-height: 1.3;
+  font-weight: 700;
+  color: #000000;
+}
+
+.whole-blog h3 span {
+  font-weight: 400;
+}
+
+.whole-blog.blue-divider {
+  background: #0066cc;
+  height: 3px;
+  width: 47px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+/* End of Monetization blog section   */
+
+
+/* Begin of Benefit section  */
+.content-of-benefit h3 {
+  font-size: 33px;
+  line-height: 1.3;
+  font-weight: 700;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 17px;
+}
+.for-blue-line .blue-divider{
+  background: #0066cc;
+  height: 3px;
+  width: 47px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+}
+
+.content-of-benefit .blue-divider {
+  background: #0066cc;
+  height: 3px;
+  width: 47px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+}
+.benefit-para p {
+  color: #7f7f7f;
+  font-family: "sf-text-pro";
+  font-size: 14px;
+}
+
+.Benefit-sec .row {
+  display: flex;
+  align-items: center;
+}
+
+.content-of-benefit {
+  box-shadow: 0px 0px 6px #0000000f;
+  padding: 30px;
+}
+
+.content-of-benefit {
+  box-shadow: 0px 0px 6px #0000000f;
+  padding: 30px;
+  background-image: url(../img/ml2.webp);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.Benefit-sec .col-lg-6 {
+  padding: 0;
+}
+
+.manage-liquid-sec .content-wrapper {
+  background-image: url(../img/ml.webp);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: transparent !important;
+}
+
+.fedral-con {
+  box-shadow: 0px 0px 6px #0000000f;
+  padding: 30px;
+  background-image: url(../img/bene.webp);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.fedral-sec .content-wrapper{
+  background-image: url(../img/process.webp);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: transparent !important;
+}
+
+
+/* End of Benefit section  */
+
+/* Begin of Affilation section  */
+.affilation-sec .content-wrapper h3 {
+  font-size: 38px;
+}
+/* End of Affilation section  */
+
+/* Begin of Agency section  */
+.Agencyip-sec .content-wrapper h3 {
+  font-size: 36px;
+}
+
+h3.gettingit {
+  font-size: 20px !important;
+}
+.Submitip a {
+  font-size: 10px;
+  color: #ffffff;
+  font-family: 'sf-text-pro';
+  background-color: #090909;
+  padding: 14px 27px;
+  text-decoration: unset;
+  line-height: 70px;
+}
+/* End of Agency section  */
+
+/* Begin of Ip-monitization section  */
+.ip-monitize-sec .content-wrapper h3 {
+  font-size: 42px;
+}
+/* End of Ip-monitization section  */
+
+/* Begin of Wellness page section  */
+.key-benefit-heading h2 {
+  font-size: 50px;
+  color: #ffffff;
+  font-family: 'SF Pro Display';
+  font-weight: 700;
+  padding: 10px;
+}
+.key-benefit-heading {
+  background-color: #000000;
+  text-align: center;
+}
+/* End of Begin of Wellness section  */
+
+/* Begin of News Page section  */
+.pagination-all .pagination {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  justify-content: center;
+}
+
+.pagination-all .page-item:first-child .page-link {
+  border-top-left-radius: .25rem;
+  border-bottom-left-radius: .25rem;
+  
+}
+
+.pagination-all .page-link:hover {
+  z-index: 2;
+  color: #ffffff;
+  background-color: #000000;
+  border-color: #dee2e6;
+}
+
+.pagination-all .page-link {
+  position: relative;
+  display: block;
+  color: #000000e0;
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.pagination-all li.page-item {
+  margin-right: 15px;
+}
+
+.pagination-all a.page-link {
+  box-shadow: 0px 0px 4px #00000026;
+  border: none !important;
+}
+
+.News-sec {
+  padding: 70px 0px;
+}
+
+.news-date-day h4 {
+  font-size: 17px !important;
+  color: #fff !important;
+  margin: 0;
+  text-align: center;
+}
+.news-date-day {
+  background-color: black;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 0px 10px;
+  padding-bottom: 10px;
+}
+.news-date-day h5 {
+  font-size: 17px !important;
+  color: #ffffff;
+  line-height: 1px;
+}
+/* End of News Page section  */
+
+/* Extra css  */
+.Monetization h3 {
+  font-size: 32px;
+}
+
+/* Extra css  */
+
+
+
+@media (max-width: 1366px) {
+  .affilation-sec .content-wrapper h3 {
+    font-size: 30px;
+}
+.winning-sec p {
+  font-size: 12px;
+}
+.Experience-sec h3 {
+  font-size: 32px;
+  
+}
+.Experience-sec p {
+  font-size: 11px;
+}
+.winning-sec h3 {
+  font-size: 30px;
+}
+.Experience-sec .content-wrapper {
+  padding: 60px 33px 94px 33px;
+}
+.Experience-sec img.experience-img {
+  height: 380px;
+}
+.Business-sec h3 {
+  font-size: 24px;
+}
+.Business-sec p {
+ 
+  font-size: 12px;
+}
+.team-sec h3 {
+  font-size: 36px;
+}
+.team-sec p {
+  font-size: 12px;
+}
+.team-sec .team-name-wrapper h5 {
+  font-size: 15px;
+}
+footer .footer-content ul.footer-link li a {
+  font-size: 11px;
+  
+}
+.news-date-day {
+  right: 10px;
+  
+}
+}
+ul.how-ul li {
+  font-size: 13px;
+  color: #ffffff73;
+}
+
+ul.white {
+  color: #ffffff70;
+}
+
+p.board-para {
+  margin-top: 20px;
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+.team-img-wrapper img {
+  width: 100%;
+}
+
+@media (max-width: 1440px) {
+}
+@media (max-width: 1366px) {
+}
+@media (max-width: 1280px) {
+  .winning-sec h3 {
+    font-size: 21px;
+}
+}
+@media (max-width: 1100px) {
+}
+@media (max-width: 1024px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 820px) {
+}
+@media (max-width: 768px) {
+}
+@media (max-width: 575px) {
+  .Experience-sec {
+    padding: 0px 0px;
+}
+.winning-sec p {
+  font-size: 10px;
+  width: 100%;
+}
+.winning-sec h3 {
+  font-size: 16px;
+}
+.Experience-sec .content-wrapper {
+  padding: 20px 3px 44px 13px;
+}
+.Experience-sec h3 {
+  font-size: 20px;
+  line-height: 23px;
+  padding-bottom: 5px;
+}
+.Experience-sec img.experience-img {
+  height: 250px;
+}
+.pageheader h4 {
+  font-size: 16px;
+}
+.winning-sec {
+  padding: 0px 0px;
+  padding-top: 20px;
+}
+.manager-sec .manager-card-wrapper h5 {
+ 
+  font-size: 14px;
+}
+.manager-sec {
+  padding: 20px 0px;
+}
+ul.how-ul {
+  padding: 17px;
+}
+
+.Agencyip-sec .content-wrapper h3 {
+  font-size: 28px;
+}
+.img-wrapper {
+  margin-bottom: 0px;
+}
+.team-sec {
+  padding: 0px 0px;
+}
+.team-card-wrapper {
+  margin: 20px 0px;
+}
+.content-of-benefit {
+  
+  margin-bottom: 20px;
+}
+
+
+.reverse-sec .row {
+  flex-direction: inherit !important;
+}
+.manager-sec {
+  padding: 0px 0px;
+}
+}
+@media (max-width: 414px) {
+}
+@media (max-width: 390px) {
+}
+@media (max-width: 375px) {
+}
+@media (max-width: 360px) {
+}
+@media (max-width: 390px) {
+}
